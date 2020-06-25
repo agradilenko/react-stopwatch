@@ -1,5 +1,5 @@
 {
-  "name": "hooks-hw",
+  "name": "react-calculator",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://agradilenko.github.io/react-stopwatch/",
@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
